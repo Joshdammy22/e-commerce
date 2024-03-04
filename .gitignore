@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches
+*.sqlite3
+
+# Virtual Environment
+venv/
+env/
+
+# Compiled Python files
+*.pyc
+
+# Django migration files
+*.pyo
+*.pyd
+__pycache__/
+
+# macOS
+.DS_Store
+
+# Visual Studio Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Environment variables
+.env
